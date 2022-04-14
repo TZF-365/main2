@@ -29,23 +29,23 @@ features:
   enable: true
   subtitle: "Why Choose us"
   title: "Because we take <br> pride in our work "
-  description: "At TZF we put a focus on Quality and Value, outting it at the centre of our operations and culture and we make promises to all of our clients, customers and partners such as."
+  description: "At TZF we put a focus on **quality** and **value**, putting it at the centre of our operations and culture and we outline rules we follow for all of our clients, customers and partners such as."
   features_blocks:
   - icon: "las la-lock"
     title: "Trusted Security"
     content: "We value privacy and Cyber Security highly and make a effort to ensure all levels of tzf is fully secure for your piece of mind and our safety"
   - icon: "las la-magnet"
     title: "We attract success"
-    content: "We are constantly looking into long term partners and employees who can help bolster the success ad expantion of our company as we endevor to provide upmost value to every indididual that hands us even a dollar"
+    content: "We are constantly looking into long term partners and employees who can help bolster the success and expantion of our company as we endevor to provide the upmost value to every indididual that hands us so much as a dollar"
   - icon: "las la-tachometer-alt"
     title: "Secured &amp; up-to-date"
-    content: "When it comes to tech, best practaces, latest innovation and potential ideas that can benefit both sides equally"
+    content: "When it comes to tech, best practices, latest innovation and potential ideas that can benefit both sides equally"
   - icon: "las la-link"
     title: "keeping in contact"
     content: "We value the social side of our business so we always want to keep in contact with you as we also value transparency the most, communication solves many problems and we stand by that belief so ask us whatever you want!"
   - icon: "las la-lock"
     title: "Trusted Security"
-    content: "We value privacy and Cyber Security highly and make a effort to ensure all levels of tzf is fully secure for your piece of mind and our safety"
+    content: "We value privacy and Cyber Security highly and make a effort to ensure all levels of TZF is fully secure for your piece of mind and our safety"
   - icon: "las la-tachometer-alt"
     title: "Secured &amp; up-to-date"
     content: "When it comes to tech, best practaces, latest innovation and potential ideas that can benefit both sides equally"
@@ -66,12 +66,12 @@ how_it_works:
   block:
   - subtitle: "Primary Speciality"
     title: "Agency Work In The Service Sector and Business Holding"
-    description: "The center of our company is built on two main pillers, Creativity and Money. Through that we can create a unique and valuable experiance of both digital and real life products and services as well ad making sure it is both valuable enough for you to happily purchase what we have to offer."
+    description: "The center of our company is built on two main pillers, **creativity and expertise**. Through that we can create a unique and valuable experience of both digital and real life products and services as well as making sure it is both valuable enough for you to happily purchase whats we have to offer."
     image: "images/features-01.png"
 
   - subtitle: "Secondary Speciality"
     title: "Venture Capital and Investment"
-    description: "We see value in working with other busiensses and investing in their sucess with a profit to us as a investor, as well as partnering with other companies and freelancers for mutual benefit and support!"
+    description: "We see value in working with other busiensses and investing in their success with a profit to us as a investor, as well as partnering with other companies and freelancers for mutual benefit and support!"
     image: "images/features-02.png"
 
 
@@ -80,7 +80,7 @@ testimonials:
   enable: false
   subtitle: "Our Testimonials"
   title: "Don't take our word for it"
-  description: "Listen to our past clients and partners to gague for ourself if we are the right choice worthy of an inquiry"
+  description: "Listen to our past clients and partners to gauge for yourself if we are the right choice worthy of an inquiry"
   image_left: "images/testimonials-01.png"
   image_right: "images/testimonials-02.png"
   

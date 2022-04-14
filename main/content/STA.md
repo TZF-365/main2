@@ -30,8 +30,8 @@ what_we_do:
   - title: "Research and Development"
     content: "We can't promise that we have all the knowledge of your specific business or industry. What we can promise is a vow to use our Experiance and skills so it enables us to serve you in the best way possible."
 
-  - title: "Seemless Experiance & Competance"
-    content: "From structing the project we will work on for months to come in the first few meetings to getting signed on with your personal agent we provide a seemless process for you to inquire, make a decsion, plan everything out and organize it. That way we can do the work we love."
+  - title: "Seemless Experience & Competance"
+    content: "From structing the project we will work on for months to come in the first few meetings to getting signed on with your personal agent we provide a seemless process for you to inquire, make a decision, plan everything out and organize it. That way we can do the work we love."
 
 
 # our team
