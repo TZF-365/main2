@@ -60,7 +60,7 @@ our_mission:
   enable: true
   subtitle: "OUR MISSION"
   title: "At Our Core"
-  description: "Silver Tree Agency Aims to perfect the act of providing reliable creative services for entreprenurs, corperations, and communities with our detailed people centric approch to problems that our clients face to guide our expertise and imagination to a outstanding solution and an unreal reality."
+  description: "Silver Tree Agency Aims to perfect the act of providing reliable creative services for entrepreneurs, corporations, and communities with our detailed people centric approach to problems that our clients face to guide our expertise and imagination to a outstanding solution and an unreal reality."
 
   image: "images/sta/sta2.jpg"
 
