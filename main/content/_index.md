@@ -41,7 +41,7 @@ features:
     title: "Secured &amp; up-to-date"
     content: "When it comes to tech, best practices, latest innovation and potential ideas that can benefit both sides equally"
   - icon: "las la-link"
-    title: "keeping in contact"
+    title: "Keeping in contact"
     content: "We value the social side of our business so we always want to keep in contact with you as we also value transparency the most, communication solves many problems and we stand by that belief so ask us whatever you want!"
   - icon: "las la-lock"
     title: "Trusted Security"
