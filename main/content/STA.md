@@ -28,10 +28,10 @@ what_we_do:
     content: "We save you time because we come fully featured and decked out with years of experiance, Your ery own agency that will handle either specific parts of your business that deals with branding or a special project made to give you more reach, it's up to you to decide how we spend our time and how you spend your money."
     
   - title: "Research and Development"
-    content: "We can't promise that we have all the knowledge of your specific business or industry. What we can promise is a vow to use our Experiance and skills so it enables us to serve you in the best way possible."
+    content: "We can't promise that we have all the knowledge of your specific business or industry. What we can promise is a vow to use our experiance and skills so it enables us to serve you in the best way possible."
 
-  - title: "Seemless Experience & Competance"
-    content: "From structing the project we will work on for months to come in the first few meetings to getting signed on with your personal agent we provide a seemless process for you to inquire, make a decision, plan everything out and organize it. That way we can do the work we love."
+  - title: "Seamless Experience & Competence"
+    content: "From structuring the project we will work on for months to come in the first few meetings to getting signed on with your personal agent we provide a seemless process for you to inquire, make a decision, plan everything out and organize it. That way we can do the work we love."
 
 
 # our team
@@ -60,7 +60,7 @@ our_mission:
   enable: true
   subtitle: "OUR MISSION"
   title: "At Our Core"
-  description: "Silver Tree Agency Aims to perfect the act of providing reliable creative services for entrepreneurs, corporations, and communities with our detailed people centric approach to problems that our clients face to guide our expertise and imagination to a outstanding solution and an unreal reality."
+  description: "Silver Tree Agency aims to perfect the act of providing reliable creative services for entrepreneurs, corporations, and communities with our detailed people centric approach to problems that our clients face to guide our expertise and imagination to an outstanding solution and an unreal reality."
 
   image: "images/sta/sta2.jpg"
 
